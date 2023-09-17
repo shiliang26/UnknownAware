@@ -5,7 +5,7 @@ This repository is the official implementation of the FG 2021 paper [Unknown Awa
 
 ## Overview
 
-In this study, we leverage domain generalization to enhance face forgery detection with awareness to unknown forgery algorithms. 
+In this study, we leverage domain generalization to enhance face forgery detection with awareness to unknown forgery algorithms. In particular, we improve generalization of models by encouraging it to learn from non-salient areas with subtle artifacts.
 
 ![Unknown Aware Feature Learning for Face Forgery Detection](imgs/main.png)
 
